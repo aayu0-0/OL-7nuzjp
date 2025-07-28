@@ -1,0 +1,5 @@
+Persona,Age,Age,Country,Gender,benefits,treatment,work_interfere,no_employees,Description
+,mean,std,<lambda>,<lambda>,<lambda>,<lambda>,<lambda>,<lambda>,
+Corporate Hidden Strugglers,31.347732181425485,6.940535166372291,United States,Male,No,No,Sometimes,26-100,"Big firms, low trust in support."
+Mature Silent Sufferers,31.13768115942029,6.288686981891046,United States,Male,No,Yes,Sometimes,6-25,"Older pros, quiet, stressed, low benefit use."
+Open Advocates,34.00533333333333,8.307909595911141,United States,Male,Yes,Yes,Sometimes,More than 1000,"Openly talk about mental health, use benefits."
