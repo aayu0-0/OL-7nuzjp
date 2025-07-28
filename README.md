@@ -1,5 +1,12 @@
 # 🧠 Mental Wellness Analysis and Support Strategy
 
+## Details
+
+Name: Aayush Sardana
+OL-ID:7NUZJP
+Roll Number: 24106001
+
+
 ## 📌 Project Summary
 
 In today’s fast-paced tech industry, mental health challenges are widespread yet often overlooked. Many employees hesitate to seek help due to stigma, lack of resources, or poor workplace support systems. This project tackles that gap by analyzing real-world mental health survey data to **identify patterns, predict risks, and suggest data-driven solutions** for better workplace mental wellness.
